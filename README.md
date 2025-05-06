@@ -1,0 +1,1 @@
+# java-static-and-non-static-variables
